@@ -32,6 +32,13 @@
 ---
 
 ## 🔹 Technical Skills  
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60%" valign="top">  
+
 ### 📌 Programming Languages  
 ✔️ **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
 ✔️ **SQL** (MySQL, PostgreSQL, MS SQL Server)  
@@ -46,7 +53,20 @@
 ✔️ **MS Office** (Word, PowerPoint)  
 ✔️ **CorelDRAW & Photoshop** (Basic Design & Visualization)  
 
-<p align="left">
+</td>
+<td width="40%" align="right">
+  <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif" width="320px" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔹 Tools & Technologies  
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
