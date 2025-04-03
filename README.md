@@ -1,25 +1,86 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-data-analyst&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-data-analyst" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit-data-analyst" alt="sumit-data-analyst" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Sumit-Data-Analyst?tab=repositories](https://github.com/Sumit-Data-Analyst?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.threads.net/@data_with_sumit](https://www.threads.net/@data_with_sumit)
-
-- 📫 How to reach me **sumitkumar02269@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sumit-kumar-24b264330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sumit-kumar-24b264330" height="30" width="40" /></a>
-<a href="https://discord.gg/erwin_smith01_62280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="erwin_smith01_62280" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumit-data-analyst&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit-data-analyst&show_icons=true&locale=en&layout=compact" alt="sumit-data-analyst" /></p>
+## 🔹 About Me  
+🎯 Passionate **Data Analyst** skilled in **Python, SQL, and Data Visualization**.  
+📊 Experienced in **Power BI, Tableau, Excel, and MS Office** for creating impactful insights.  
+📌 Strong foundation in **data cleaning, analysis, and storytelling**.  
+🚀 Enthusiastic about **data-driven decision-making and business intelligence**.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumit-data-analyst&show_icons=true&locale=en" alt="sumit-data-analyst" /></p>
+---
+
+## 🔹 Connect with Me  
+📧 **Email**: [sumitkumar02269@gmail.com](mailto:sumitkumar02269@gmail.com)  
+📌 **LinkedIn**: [Sumit Kumar](https://www.linkedin.com/in/sumit-kumar-24b264330)  
+📖 **Threads**: [@data_with_sumit](https://www.threads.net/@data_with_sumit)  
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sumit-kumar-24b264330" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.threads.net/@data_with_sumit" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
+</a>
+</p>
+
+---
+
+## 🔹 Technical Skills  
+### 📌 Programming Languages  
+✔️ **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+✔️ **SQL** (MySQL, PostgreSQL, MS SQL Server)  
+✔️ **JavaScript, HTML, CSS**  
+
+### 📌 Data Analytics Tools  
+✔️ **Power BI** (DAX, Data Modeling)  
+✔️ **Tableau** (Dashboarding, Visualizations)  
+✔️ **Excel** (Pivot Tables, Macros, Advanced Formulas)  
+
+### 📌 Other Tools  
+✔️ **MS Office** (Word, PowerPoint)  
+✔️ **CorelDRAW & Photoshop** (Basic Design & Visualization)  
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Power_BI_logo_black.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Microsoft_Office_logo_%282013-2019%29.png" alt="MS Office" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="Photoshop" width="50" height="50"/>
+</p>
+
+---
+
+## 🔹 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit-data-analyst&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumit-data-analyst&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🔹 Projects & Articles  
+
+📂 Check out my **GitHub Repositories**:  
+🔗 [My Projects](https://github.com/Sumit-Data-Analyst?tab=repositories)  
+
+📝 Read my **Articles on Threads**:  
+🔗 [Data with Sumit](https://www.threads.net/@data_with_sumit)  
+
+---
+
+🚀 *Always learning, growing, and analyzing data to drive business success!*  
