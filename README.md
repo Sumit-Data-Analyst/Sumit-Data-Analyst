@@ -67,15 +67,18 @@
 ## 🔹 Tools & Technologies  
 
 <p align="center">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/027/179/363/small/microsoft-excel-icon-logo-symbol-free-png.png" alt="Excel" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true" alt="Power BI" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwdl7rQvdcC4gHbdYw6W6OZCxC4i8Zku8Dw&s" alt="Tabluea" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true" alt="Power BI" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50"/>
 </p>
+
 
 ---
 
