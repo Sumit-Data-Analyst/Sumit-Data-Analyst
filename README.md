@@ -75,7 +75,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true" alt="Power BI" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Microsoft_Office_logo_%282013-2019%29.svg" alt="MS Office" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" height="50"/>
 </p>
 
