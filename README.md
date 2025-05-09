@@ -17,7 +17,7 @@
 
 ## 🔹 Connect with Me  
 📧 **Email**: [sumitkumar02269@gmail.com](mailto:sumitkumar02269@gmail.com)  
-📌 **LinkedIn**: [Sumit Kumar](https://www.linkedin.com/in/sumit-kumar-24b264330)  
+📌 **LinkedIn**: [Sumit Kumar](https://www.linkedin.com/in/datawithsumit)  
 📖 **Threads**: [@data_with_sumit](https://www.threads.net/@data_with_sumit)  
 
 <p align="left">
@@ -55,7 +55,7 @@
 
 </td>
 <td width="40%" align="right">
-  <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif" width="320px" />
+  <img src="https://cdn.prod.website-files.com/667460ccc43a88651a3236c3/66cd00773b43b2e53bfc4549_60d35967a853a1b14851703b_All%2520the%2520data%2520(1).gif" width="40%" />
 </td>
 </tr>
 </table>
